@@ -91,7 +91,7 @@ cv2.destroyAllWindows()
 ```
 ## Output
 
-### Input image and grayscale image:
+### Input image and grayscale image: 
 ## input image:
 ![Screenshot 2023-10-11 112830](https://github.com/JeevaGowtham-S/EDGE--LINKING-HOUGH-TRANSFORM/assets/118042624/0f794112-8f30-49a6-8809-3e8a4dfdd14f)
 ## grayscale image:
