@@ -28,7 +28,6 @@ Using the houghlinesP(), detect the line co-ordinates for every points in the im
 
 
 ## Program:
-```Python
 
 # Read image and convert it to grayscale image
 ```
@@ -88,7 +87,6 @@ cv2.destroyAllWindows()
 
 
 
-```
 ## Output
 
 ### Input image and grayscale image: 
